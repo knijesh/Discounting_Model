@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"b358d816-619e-45e5-9871-096d599cd075","asset_type":"connection","creator_id":"1000331005"},"entity":{"datasource_type":"8c1a4480-1c29-4b33-9086-9cb799d7b157","description":"","name":"Db2","origin_country":"us","properties":{"database":"sample","password":"sgtechIBMDem0s!","port":50000,"host":"119.81.89.183","ssl":false,"username":"db2inst1"}}}

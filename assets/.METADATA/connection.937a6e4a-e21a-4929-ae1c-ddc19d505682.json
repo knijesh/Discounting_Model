@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"937a6e4a-e21a-4929-ae1c-ddc19d505682","asset_type":"connection","creator_id":"1000331005"},"entity":{"datasource_type":"971223d3-093e-4957-8af9-a83181ee9dd9","description":"","name":"Oracle","origin_country":"us","properties":{"port":10243,"service_name":"ORCLCDB.localdomain","host":"169.38.121.141","ssl":"false"},"flags":["personal_credentials"]}}

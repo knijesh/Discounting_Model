@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"2911de64-9335-4b12-9556-c8f6b044225b","asset_type":"connection","creator_id":"1000331005"},"entity":{"datasource_type":"cfdcb449-1204-44ba-baa6-9a8a878e6aa7","description":"","name":"DB2 CLoud","origin_country":"us","properties":{"database":"BLUDB","host":"dashdb-txn-sbox-yp-lon02-01.services.eu-gb.bluemix.net"},"flags":["personal_credentials"]}}
